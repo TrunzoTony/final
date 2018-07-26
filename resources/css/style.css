@@ -1,0 +1,22 @@
+html{
+  font-size: 18px;
+
+}
+
+header{
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+header img {
+  margin-left: 24px;
+}
+
+
+
+
+header ul{
+  margin-right: 24px
+}
